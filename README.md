@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: July 17 - 19, 2018.
-- Facilitator: @deepakarchinnova
+- Facilitator: @deepakarchinnvoa
 
 ## Talk to Us!!
 
@@ -9,7 +9,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: null.
+Please take a moment to complete the class survey at: https://goo.gl/forms/o7Blv4xKcCA7pKCg1.
 
 ## Scripts for Adding Files
 
