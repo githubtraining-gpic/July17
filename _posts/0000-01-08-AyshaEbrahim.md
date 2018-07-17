@@ -6,4 +6,4 @@ title: "Welcome to our slide deck!"
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
 
-Caption here
+Msg 
