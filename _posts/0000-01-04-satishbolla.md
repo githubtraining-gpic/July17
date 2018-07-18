@@ -6,4 +6,4 @@ title: "Welcome to our slide deck!"
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
 
-Caption here
+This is imagining that we are working locally one more time.
